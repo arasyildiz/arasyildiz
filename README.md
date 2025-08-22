@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 I’m currently working on  <br>- Roblox Studio’da oyun geliştirme  <br>- Python ile veri analizi & makine öğrenimi  <br><br>🤝 I’m looking to collaborate on  <br>- Oyun geliştirme projeleri (Roblox, Java, Lua)  <br>- Veri bilimi ve yapay zeka çalışmaları  <br><br> ### 🌱 I’m currently learning  <br>- Yapay zeka & Makine Öğrenimi (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  <br>- Java ile uygulama geliştirme  <br><br> ### 💬 Ask me about  <br>- Python, Java, Lua  <br>- Oyun geliştirme ve veri analizi  <br><br> ⚡ Fun fact  <br>- Kod yazarken en çok kahve tüketiyorum ☕  
+### 🚀 I’m currently working on  <br>- Roblox Studio’da oyun geliştirme  <br>- Python ile veri analizi & makine öğrenimi  <br><br>🤝 I’m looking to collaborate on  <br>- Oyun geliştirme projeleri (Roblox, Java, Lua)  <br>- Veri bilimi ve yapay zeka çalışmaları  <br><br>🌱 I’m currently learning  <br>- Yapay zeka & Makine Öğrenimi (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  <br>- Java ile uygulama geliştirme  <br><br>💬 Ask me about  <br>- Python, Java, Lua  <br>- Oyun geliştirme ve veri analizi  <br><br> ⚡ Fun fact  <br>- Kod yazarken en çok kahve tüketiyorum ☕  
 
 
 ## 🌐 Socials:
